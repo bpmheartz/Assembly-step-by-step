@@ -2,7 +2,7 @@
 .model flat, c
 .code
 
-;Code by Miguel Casillas.
+;Code by Mohammadreza Sharifi (250499091)
 ;This code can be used and reproduced, please give credit
 
 ;void InsertionSort(void *pArray, int nItems);
